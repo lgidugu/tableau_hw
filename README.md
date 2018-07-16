@@ -1,1 +1,2 @@
 # tableau_hw
+In this assignment analysis was performed on CitiBikeProgram using Tableau. Many vaisualizations were done to answer questions such as approximate age group that rents bike majority of the time, what time day is more popluar than others, what stations are more coomon  and less likely taken for starting point and ending points etc. Finally a dashboard is created demonstrate all of these at one time.
